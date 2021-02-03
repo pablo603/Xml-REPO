@@ -1,0 +1,188 @@
+<?xml version="1.0"?>
+
+<!DOCTYPE lista_libros SYSTEM "ejercicio 3_2.dtd">
+<lista_libros>
+    <libro>
+        <autores>
+            <autor> makina
+                <apellido1>Holgado</apellido1>
+                <apellido2>barreno</apellido2>
+                <nombre>Pablo</nombre>
+            </autor>
+            <autor> lorca
+                <apellido1>Lorca</apellido1>
+                <apellido2>Galindo</apellido2>
+                <nombre>Federico</nombre>
+            </autor>
+        <titulo>La vida es bella</titulo>
+        <editorial>El Velero</editorial>
+        <fecha_publicacion>20/10/1845</fecha_publicacion>
+        <ISBN>4548848</ISBN>
+        </autores>
+    </libro>
+    <libro>
+        <autores>
+            <autor> makina
+                <apellido1>follet</apellido1>
+                <apellido2>ruiz</apellido2>
+                <nombre>Ken</nombre>
+            </autor>
+        <titulo>Los pilares de la Tierra</titulo>
+        <editorial>El Velero</editorial>
+        <fecha_publicacion>8/10/2018</fecha_publicacion>
+        <ISBN>845426</ISBN>
+        </autores>
+    </libro>
+    <libro>
+        <autores>
+            <autor> javier RB
+                <apellido1>rivero</apellido1>
+                <apellido2>barreno</apellido2>
+                <nombre>javier</nombre>
+            </autor>
+        <titulo>El señor de los anillos</titulo>
+        <editorial>El Velero</editorial>
+        <fecha_publicacion>8/2/1987</fecha_publicacion>
+        <ISBN>4548848</ISBN>
+        </autores>
+    </libro>
+    <libro>
+        <autores>
+            <autor>manuel
+                <apellido1>gomez</apellido1>
+                <apellido2>garcia</apellido2>
+                <nombre>manuel</nombre>
+            </autor>
+            <autor> luis
+                <apellido1>nuñez</apellido1>
+                <apellido2>Galindo</apellido2>
+                <nombre>Luis</nombre>
+            </autor>
+        <titulo>SHERK</titulo>
+        <editorial>El Velero</editorial>
+        <fecha_publicacion>2/1/2000</fecha_publicacion>
+        <ISBN>4547845</ISBN>
+        </autores>
+    </libro>
+     <libro>
+        <autores>
+            <autor> cristobal Jp
+                <apellido1>jimenez</apellido1>
+                <apellido2>Pantoja</apellido2>
+                <nombre>Cristobal</nombre>
+            </autor>
+        <titulo>Ser DJ</titulo>
+        <editorial>El Velero</editorial>
+        <fecha_publicacion>30/11/2018</fecha_publicacion>
+        <ISBN>4858848</ISBN>
+        </autores>
+    </libro>
+     <libro>
+        <autores>
+            <autor> juaquin
+                <apellido1>Sabina</apellido1>
+                <apellido2>Ordoñez</apellido2>
+                <nombre>juaquin</nombre>
+            </autor>
+            <autor> CR7
+                <apellido1>ronaldo</apellido1>
+                <apellido2>dos santos</apellido2>
+                <nombre>cristiano</nombre>
+            </autor>
+        <titulo>EL FUTBOL un sueño</titulo>
+        <editorial>El Velero</editorial>
+        <fecha_publicacion>4/6/1745</fecha_publicacion>
+        <ISBN>4566648</ISBN>
+        </autores>
+    </libro>
+     <libro>
+        <autores>
+            <autor> messi
+                <apellido1>armando</apellido1>
+                <apellido2>barrela</apellido2>
+                <nombre>Luis</nombre>
+            </autor>
+            <autor> Diego10
+                <apellido1>armando</apellido1>
+                <apellido2>Matamoros</apellido2>
+                <nombre>Diego</nombre>
+            </autor>
+        <titulo>Salvame de ti</titulo>
+        <editorial>El Velero</editorial>
+        <fecha_publicacion>7/10/1945</fecha_publicacion>
+        <ISBN>4548848</ISBN>
+        </autores>
+    </libro>
+     <libro>
+        <autores>
+            <autor> ANA
+                <apellido1>Fornel</apellido1>
+                <apellido2>gomez</apellido2>
+                <nombre>Ana</nombre>
+            </autor>
+            <autor> PIEDRA
+                <apellido1>Piedra</apellido1>
+                <apellido2>Chino</apellido2>
+                <nombre>Alberto</nombre>
+            </autor>
+        <titulo>Las cosas como son</titulo>
+        <editorial>El Velero</editorial>
+        <fecha_publicacion>30/12/2010</fecha_publicacion>
+        <ISBN>4547778</ISBN>
+        </autores>
+    </libro>
+     <libro>
+        <autores>
+            <autor> makina
+                <apellido1>Holgado</apellido1>
+                <apellido2>barreno</apellido2>
+                <nombre>Pablo</nombre>
+            </autor>
+            <autor> lorca
+                <apellido1>Lorca</apellido1>
+                <apellido2>Galindo</apellido2>
+                <nombre>Federico</nombre>
+            </autor>
+        <titulo>Somos como somos</titulo>
+        <editorial>El Velero</editorial>
+        <fecha_publicacion>2/8/1995</fecha_publicacion>
+        <ISBN>4577848</ISBN>
+        </autores>
+    </libro>
+     <libro>
+        <autores>
+            <autor> makina
+                <apellido1>Holgado</apellido1>
+                <apellido2>barreno</apellido2>
+                <nombre>Pablo</nombre>
+            </autor>
+            <autor> lorca
+                <apellido1>Lorca</apellido1>
+                <apellido2>Galindo</apellido2>
+                <nombre>Federico</nombre>
+            </autor>
+        <titulo>El laberinto </titulo>
+        <editorial>El Velero</editorial>
+        <fecha_publicacion>20/10/1845</fecha_publicacion>
+        <ISBN>4548848</ISBN>
+        </autores>
+    </libro>
+     <libro>
+        <autores>
+            <autor> manito
+                <apellido1>Holgado</apellido1>
+                <apellido2>barreno</apellido2>
+                <nombre>Pablo</nombre>
+            </autor>
+            <autor> Locodelcoco
+                <apellido1>Lorca</apellido1>
+                <apellido2>Galindo</apellido2>
+                <nombre>Federico</nombre>
+            </autor>
+        <titulo>Platero y yo</titulo>
+        <editorial>El Velero</editorial>
+        <fecha_publicacion>4/6/1985</fecha_publicacion>
+        <ISBN>4548848</ISBN>
+        </autores>
+    </libro>
+</lista_libros>

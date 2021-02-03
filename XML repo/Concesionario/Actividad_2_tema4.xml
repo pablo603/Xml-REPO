@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Definición del documento XML-->
+<concesionario xmlns:g1="https://www.renault.es/" g1:noNamespaceSchemaLocation="esquema-concesionario.xsd">
+    <coche> 
+        <codigo>64888974569b</codigo>
+        <matricula>111bck</matricula>
+        <marca>Renault</marca>
+        <modelo>
+            <potencia>400</potencia>
+            <plazas>4</plazas>
+            <numPuertas>3</numPuertas>
+        </modelo>
+
+    </coche>
+    <coche> 
+        <codigo>2584726842n</codigo>
+        <matricula>6665bck</matricula>
+        <marca>Renault</marca>
+        <modelo>
+            <potencia>425</potencia>
+            <plazas>5</plazas>
+            <numPuertas>4</numPuertas>
+        </modelo>
+        
+    </coche> 
+    <coche> 
+        <codigo>333842652471x</codigo>
+        <matricula>987FGH</matricula>
+        <marca>Renault</marca>
+        <modelo>
+            <potencia>350</potencia>
+            <plazas>4</plazas>
+            <numPuertas>3</numPuertas>
+        </modelo>       
+    </coche>
+</concesionario>

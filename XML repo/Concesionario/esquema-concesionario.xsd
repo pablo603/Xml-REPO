@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Definición del documento XML-->
+<g1:schema xmlns:g1="https://www.renault.es/" version="1.0"> 
+    <g1:element name="concesionario">
+        <g1:complexType>
+            <g1:sequence>
+                <g1:element name="coche" maxOccurs="unbounded">
+                    <g1:complexType>
+                        <g1:sequence>
+                            <g1:element name ="codigo" maxOccurs="unbounded"/>
+                            <g1:element name ="matricula" maxOccurs="unbounded"/>
+                            <g1:element name ="marca" maxOccurs="unbounded"/>
+                            <g1:element name ="modelo" maxOccurs="unbounded">
+                                <g1:complexType>
+                                    <g1:sequence>
+                                        <g1:element name ="potencia" maxOccurs="unbounded"/>
+                                        <g1:element name ="plazas" maxOccurs="unbounded"/>
+                                        <g1:element name ="numpuertas" maxOccurs="unbounded"/>
+                                    </g1:sequence>
+                                </g1:complexType>
+                            </g1:element>
+                        </g1:sequence>
+                    </g1:complexType>
+                </g1:element>
+            </g1:sequence>
+        </g1:complexType>
+    </g1:element>
+</schema>     
